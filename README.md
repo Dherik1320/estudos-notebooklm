@@ -49,8 +49,6 @@ Este projeto foi desenvolvido utilizando o **NotebookLM**, alimentado com um tot
 - Adaptações sistêmicas (como manuais de RPG 3D&T para quantificação técnica de poder).
 
 PROMPT: "Faça uma tabela comparativa explicando detalhadamente os 9 Sentidos do Cosmo. Inclua: Nome do Sentido, Efeito Prático, e Exemplos de personagens que o despertaram." Esse é um otimo exemplo de prompt para obter respostas completas e validadas através de diversas fontes
-## 🤝 Como Contribuir
-Se você é fã de Saint Seiya e deseja expandir esta enciclopédia (adicionando dados sobre *Lost Canvas*, *Next Dimension*, *Episódio G* ou *Saintia Shô*), sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request* sugerindo novas fontes e textos!
 
 ---
 *“Você já sentiu o seu Cosmo?”* 🌠
