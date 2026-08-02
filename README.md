@@ -4,7 +4,7 @@
 
 
 [![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)](#)
-[![Fontes Utilizadas]((https://www.youtube.com/watch?v=c6NwW3Ud5GM
+[![Algumas Fontes Utilizadas]((https://www.youtube.com/watch?v=c6NwW3Ud5GM
 ]https://www.youtube.com/watch?v=c6NwW3Ud5GM
 https://www.cavzodiaco.com.br/produtos/livros-e-publicacoes/artbooks/saint-seiya-cosmo-special])(#)
 
