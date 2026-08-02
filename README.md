@@ -1,5 +1,6 @@
 # 🌌 Enciclopédia Definitiva: Saint Seiya (Os Cavaleiros do Zodíaco)
 
+**LINK PARA O PROJETO** : https://notebook.google.com/notebook/6c6a76ab-71ea-45f1-a8c1-2c6ccf06e8a4
 [![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)](#)
 [![Fontes Utilizadas]((https://www.youtube.com/watch?v=c6NwW3Ud5GM
 ]https://www.youtube.com/watch?v=c6NwW3Ud5GM
