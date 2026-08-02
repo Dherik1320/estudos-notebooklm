@@ -1,9 +1,14 @@
-# 🌌 Enciclopédia : Saint Seiya (Os Cavaleiros do Zodíaco)
+# 🌌 Enciclopédia Definitiva: Saint Seiya (Os Cavaleiros do Zodíaco)
+
+[![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)](#)
+[![Fontes Utilizadas]((https://www.youtube.com/watch?v=c6NwW3Ud5GM
+]https://www.youtube.com/watch?v=c6NwW3Ud5GM
+https://www.cavzodiaco.com.br/produtos/livros-e-publicacoes/artbooks/saint-seiya-cosmo-special])(#)
 
 ## 📜 Sobre o Projeto
 Uma pesquisa aprofundada e de máxima completude sobre a totalidade da franquia **Saint Seiya**, estruturada no formato de uma grande enciclopédia narrativa e técnica. Este projeto visa mapear toda a história em ordem cronológica — do Big Bang e da Era Mitológica até o desfecho das sagas modernas — consolidando a vasta (e complexa) lore criada por Masami Kurumada.
 
-O conteúdo foi gerado e estruturado a partir do cruzamento de dezenas de fontes especializadas (fóruns, wikis, artbooks oficiais como o *Cosmo Special* e análises de canais de história pop) utilizando curadoria assistida por Inteligência Artificial (Gemini, NotebookLM).
+O conteúdo foi gerado e estruturado a partir do cruzamento de dezenas de fontes especializadas (fóruns, wikis, artbooks oficiais como o *Cosmo Special* e análises de canais de história pop) utilizando curadoria assistida por Inteligência Artificial (Google Gemini Notebook).
 
 ## 🗺️ Escopo e Conteúdo
 
@@ -37,14 +42,13 @@ Análise detalhada das armaduras, seus materiais e patamares de poder:
 * As lendárias **Kamuis** (Vestimentas exclusivas dos 12 Deuses Olímpicos).
 
 ## 🛠️ Metodologia e Tecnologias
-Este projeto foi desenvolvido utilizando o **Gemini Notebook**, alimentado com um total de **33 fontes pré-selecionadas**, incluindo:
+Este projeto foi desenvolvido utilizando o **NotebookLM**, alimentado com um total de **33 fontes pré-selecionadas**, incluindo:
 - Transcrições de vídeos ensaísticos do YouTube focados em lore.
 - Artigos e discussões da *Saint Seiya Wiki* e *Seiyapedia*.
 - Documentação extraída do *Hipermito* traduzido por portais de fãs brasileiros (ex: CavZodiaco).
 - Adaptações sistêmicas (como manuais de RPG 3D&T para quantificação técnica de poder).
 
-O *prompt* principal exigiu uma narrativa estruturada, técnica e massiva, priorizando informações validadas pelas mídias originais para derrubar mitos comuns da comunidade.
-
+PROMPT: "Faça uma tabela comparativa explicando detalhadamente os 9 Sentidos do Cosmo. Inclua: Nome do Sentido, Efeito Prático, e Exemplos de personagens que o despertaram." Esse é um otimo exemplo de prompt para obter respostas completas e validadas através de diversas fontes
 ## 🤝 Como Contribuir
 Se você é fã de Saint Seiya e deseja expandir esta enciclopédia (adicionando dados sobre *Lost Canvas*, *Next Dimension*, *Episódio G* ou *Saintia Shô*), sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request* sugerindo novas fontes e textos!
 
